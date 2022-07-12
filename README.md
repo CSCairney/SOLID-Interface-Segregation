@@ -1,0 +1,1 @@
+# SOLID-Interface-Segregation
